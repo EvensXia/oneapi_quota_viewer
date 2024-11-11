@@ -1,6 +1,7 @@
 {
   "name": "oneapi-quota-viewer",
   "displayName": "oneapi_quota_viewer",
+  "publisher": "EvensXia",
   "description": "show your oneapi quota in status bar",
   "version": "0.0.1",
   "engines": {
